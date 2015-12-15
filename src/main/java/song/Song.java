@@ -26,11 +26,6 @@ public class Song {
     private JLabel currentSong;
     private JLabel bottom;
     private JLabel middle;
-    private String song1 = "";
-    private String song2 = "";
-    private String song3 = "";
-    private String song4 = "";
-
 
     private int id = 1;
     public static String[] DEFAULT_FONT = new String[]{
